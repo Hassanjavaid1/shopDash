@@ -17,5 +17,5 @@ npm run dev     # http://localhost:5173
 - Typed hooks in `src/app/hooks.ts`. No `any`.
 
 ## API choice
-Uses [DummyJSON](https://dummyjson.com/products) rather than FakeStore API, as dummyjson api provides varity of data.
+Uses [DummyJSON](https://dummyjson.com/products) rather than FakeStore API, as dummyjson api provides a variety of data.
 
